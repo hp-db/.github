@@ -80,4 +80,4 @@ Supported by the Japan Society for the Promotion of Science (JSPS).
 
 ## Contact
 
-Masakatsu Nagai — `nagai.masakatsu [at] mail.u-tokyo.ac.jp`
+Masakatsu Nagai — `mnagai [at] slis.tsukuba.ac.jp`
